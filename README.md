@@ -1,35 +1,44 @@
-<!---
-yashhkataria/yashhkataria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Yash Kataria 👨‍💻
-📞 **Contact:** +91-7011641626 | 🔗 **[LinkedIn](https://www.linkedin.com/in/yash-kataria-4839a01b3/)** | 💻 **[GitHub](https://github.com/yashhkataria)**
+# Yash Kataria
 
-## Education 🎓
-- **B.Tech - Electronics and Communication Engineering**
-  - Indian Institute of Technology Guwahati
-  - 📅 2021 - Present
-- **Class XII, CBSE Board**
-  - 📅 2021
-- **Class X, CBSE Board**
-  - 📅 2019
+[![Linkedin Badge](https://img.shields.io/badge/-Yash%20Kataria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-kataria-4839a01b3/)](https://www.linkedin.com/in/yash-kataria-4839a01b3/)
+[![Gmail Badge](https://img.shields.io/badge/-yashkataria15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashkataria15@gmail.com)](mailto:yashkataria15@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-yashkataria.com-blueviolet)](https://yash-kataria.vercel.app/)
+[![GitHub Badge](https://img.shields.io/badge/-yashhkataria-181717?style=flat-square&logo=github)](https://github.com/yashhkataria)
 
-## Projects 🚀
-1. **Guwahati Half Marathon Portal**
-   - Led a team of six developers in creating a dynamic website using React.js for frontend and Node.js for backend, with MongoDB for data storage, ensuring seamless functionality and user engagement.
-   - Incorporated features like event registration.
-   - Deployed the website and ensured its scalability using AWS EC2.
-2. **Jotion - A Note Making Application**
-   - Developed a Notion-inspired note-making application leveraging the capabilities of Next.js while utilizing Vercel for deployment.
-   - Implemented features like authentication using sign-in via Google and GitHub, adding a new note, deleting a note, restoring a note, syncing across devices, and robust searching and filtering.
-3. **Know Shop App**
-   - Developed a mobile application that seamlessly connects users with multiple shops in and around the IITG campus, enabling convenient pre-ordering of desired items.
-   - Leveraged Flutter to craft an intuitive interface for both customers and shopkeepers, while employing Firebase for efficient backend data management.
+Welcome to my GitHub profile! I’m Yash Kataria, currently pursuing my Bachelor's in Electronics and Communication Engineering at the Indian Institute of Technology Guwahati, where I’m on track to graduate in July 2025. 
 
-## Technical Skills 💡
-- **Programming Languages:** C++, Python
-- **Web Development:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React.js, Next.js, Express.js
-- **Database Management:** MySQL
-- **Version Control:** Git, GitHub
-- **App Development:** Flutter
+---
+
+## 🔧 My Skills
+
+- **Languages:**
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+- **Web Development:**
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+- **App Development:**
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+- **Databases:**
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![ArangoDB](https://img.shields.io/badge/-ArangoDB-973B2F?style=flat-square&logo=arangodb&logoColor=white)
+
+- **Cloud & DevOps:**
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+- **Design:**
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
