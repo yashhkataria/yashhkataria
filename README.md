@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I’m Yash Kataria, currently pursuing my Bachelor
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=yashhkataria&label=PROFILE+VIEWS&color=blue)
+
+---
+
 ## 🔧 My Skills
 
 - **Languages:**
