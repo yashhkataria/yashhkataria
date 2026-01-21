@@ -5,7 +5,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-yashkataria.com-blueviolet)](https://yash-kataria.vercel.app/)
 [![GitHub Badge](https://img.shields.io/badge/-yashhkataria-181717?style=flat-square&logo=github)](https://github.com/yashhkataria)
 
-👋 Hi, I’m Yash, a Software Engineer at Deutsche Bank and a B.E. graduate.
+👋 Hi, I’m Yash, a Software Engineer at Deutsche Bank and a B.Tech graduate from IIT Guwahati.
 
 I work on building scalable backend systems using Java, Spring Boot, and SQL, and I’ve also been involved in applying AI/ML solutions within enterprise workflows. I enjoy backend architecture, clean APIs, and solving real-world problems with reliable, well-designed systems.
 
